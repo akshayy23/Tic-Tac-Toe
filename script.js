@@ -5,6 +5,7 @@ let mess=document.querySelector("#msg");
 let msdcon=document.querySelector(".msgContain");
 
 
+// This is in 2nd branch
 
 let turn0=true;  //PlayerX, PlayerO
 let c=0;
